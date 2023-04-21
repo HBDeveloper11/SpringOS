@@ -1,5 +1,5 @@
 # SpringOS
-SpringOS is a operating system made using TurboWarp.
+SpringOS is a operating system made using [TurboWarp](https://www.turbowarp.org/).
 It is designed to be minimal, and resource-less.
 
 **WARNING: SpringOS is still in development,
